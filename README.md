@@ -548,3 +548,48 @@ Aqui está uma lista de ferramentas de IA que podem ser úteis para criação de
 - **Obsidian**  
   [https://obsidian.md/](https://obsidian.md/)  
   Ferramenta de notas baseada em Markdown com foco em produtividade.
+
+- **Dectopus AI** (decktopus.com)  
+  Gerador de apresentações com inteligência artificial nº1 do mundo.
+
+- **Canva** (canva.com)  
+  Criador de apresentações com inteligência artificial que oferece modelos prontos para uso e recursos de arrastar e soltar.
+
+- **Visme** (visme.co)  
+  Crie apresentações envolventes e visualmente atraentes com sugestões de IA para layouts, animações e gráficos.
+
+- **Zoho Show** (zoho.com/show)  
+  Uma ferramenta de apresentação baseada em nuvem com aprimoramentos de design de IA e recursos de colaboração contínuos.
+
+- **Powtoon** (powtoon.com)  
+  Transforme apresentações estáticas em vídeos animados com recursos baseados em IA para uma experiência mais dinâmica.
+
+- **SlideDog** (slidedog.com)  
+  Um software de apresentação interativa que combina vários formatos de mídia em uma apresentação de slides profissional e perfeita.
+
+- **Documentário de História** (storydoc.com)  
+  Ferramenta orientada por IA para transformar slides estáticos em apresentações envolventes e interativas que contam uma história.
+
+- **Prezi** (prezi.com)  
+  Plataforma de apresentação aprimorada por IA para criar apresentações de slides não lineares e com zoom que se destacam.
+
+- **Presentificar** (presentify.io)  
+  Ferramenta simples baseada em IA para slides rápidos e visualmente atraentes e compartilhamento remoto de apresentações.
+
+- **PitchGrade** (pitchgrade.com)  
+  Ferramenta com inteligência artificial que fornece feedback e sugestões em tempo real para melhorar o conteúdo e o estilo da sua apresentação.
+
+- **Arremesso** (pitch.com)  
+  O Pitch é a maneira mais rápida de sua equipe criar e compartilhar belas apresentações que obtêm resultados.
+
+- **SlideSpeak** (SlideSpeak.co)  
+  Gera apresentações a partir de texto.
+
+- **Robô de convés** (deckrobot.com)  
+  O DeckRobot AI projetará sem esforço centenas de slides do PowerPoint em segundos, não em horas.
+
+- **SlidesAI** (slidesai.io)  
+  Complemento do Google Slides para IA gerar apresentações a partir de texto.
+
+- **Gama** (gamma.app)  
+  AI Chatbot que permite fazer uma apresentação a partir de chat ou importação de texto.
