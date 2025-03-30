@@ -73,7 +73,10 @@ Esta lista reúne ferramentas que podem aumentar a produtividade de profissionai
 - **LM Studio**: [https://lmstudio.ai/](https://lmstudio.ai/)  
   Ferramenta para gerenciamento e experimentação com modelos de linguagem.
 
-- **Leonardo AI**: [https://leonardo.ai/](https://leonardo.ai/)  
+- **Leonardo AI**: [(https://www.hedra.com/)](https://www.hedra.com/)
+  Plataforma de IA para criação de animações.
+
+- **Hedra AI**: [https://leonardo.ai/](https://leonardo.ai/)  
   Plataforma de IA para criação de designs e artes digitais.
 
 - **Hugging Face**: [https://huggingface.co/](https://huggingface.co/)  
